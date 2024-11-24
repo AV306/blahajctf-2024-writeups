@@ -5,11 +5,13 @@ On 23-24 November 2024, I took part in BlåhajCTF 2024 with [Craftless](https:/
 <div style="padding: 10px 20px;">
 <h2>Statistics</h2>
 
-- <strong>Team name</strong>: *Promise of Dawn*
-- <strong>Day 1 ranking</strong>: 15
-- <strong>Day 2 ranking</strong>: 9 (10393 pts)
-- <strong>Total problems solved</strong>: 40
-- <strong>Small Blåhaj</strong>: Acquired
+<ul>
+    <li><strong>Team name</strong>: <em>Promise of Dawn</em></li>
+    <li><strong>Day 1 ranking</strong>: 15</li>
+    <li><strong>Day 2 ranking</strong>: 9 (10393 pts)</li>
+    <li><strong>Total problems solved</strong>: 40</li>
+    <li><strong>Small Blåhaj</strong>: Acquired</li>
+</ul>
 </div>
 <br>
 
