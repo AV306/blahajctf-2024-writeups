@@ -19,6 +19,10 @@ This is a collection of writeups for challenges I solved.
 
 (Most chall files are still available at [azazazo/blahajctf-files](https://github.com/azazazo/blahajctf-files))
 
+## Quotes from the organisers
+
+- "over here you see someone using Ghidra, then someone using IDA free, someone using IDA pro, and then someone using IDA free"
+- "oh wow a dotPeek user" (referring to me)
 
 ## Crypto
 
